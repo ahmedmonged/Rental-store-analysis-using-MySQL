@@ -4,12 +4,12 @@ Written queries to perform analysis and extract information from a rental store 
 ### 1- Database and Setup
 ------------------------------------------------------------
 ##### Database
-------------------------------------------------------------
+
 The database used is an open free to use database called Sakila that contains data from a rental film store it is a well-designed database
 that have many features and information.
 
 ##### Setup
-------------------------------------------------------------
+
 You can download the full database in this repo from the data folder 
 First, you need to have MySQL installed on your device after that follow the below link to attach and connect the database to MySQL
 https://dev.mysql.com/doc/sakila/en/sakila-installation.html
