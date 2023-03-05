@@ -1,4 +1,4 @@
-# Rental store analysis using MySQL
+# DVD Rental store analysis using MySQL
 Written queries to perform analysis and extract information from a rental store database by using MySQL
 
 ### 1- Database and Setup
