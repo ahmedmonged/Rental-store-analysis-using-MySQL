@@ -24,7 +24,7 @@ https://dev.mysql.com/doc/sakila/en/sakila-installation.html
 ------------------------------------------------------------
 In this project, I am using the Sakila database which is a Database of a DVD rental store to
 write queries using MySQL to extract information and look for findings that will be beneficial and helpful to the business or stakeholders
-to improve the performance and the sales process and to know the points of strengths and weaknesses of the business
+to improve the performance and the sales process and to know the strengths and weaknesses of the business
 the Queries answer questions like:
 
 - what are the top categories rented?
