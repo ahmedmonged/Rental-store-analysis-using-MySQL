@@ -8,6 +8,9 @@ Written queries to perform analysis and extract information from a rental store 
 The database used is an open free to use database called Sakila that contains data from a rental film store it is a well-designed database
 that have many features and information.
 
+![ERD of SakilaDB](https://github.com/ahmedmonged/Rental-store-analysis-using-MySQL/blob/main/Data/ERD.png)
+
+
 #### 1.2 Setup
 
 You can download the full database in this repo from the data folder 
