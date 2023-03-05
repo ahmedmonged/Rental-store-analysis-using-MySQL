@@ -12,6 +12,7 @@ that have many features and information.
 
 You can download the full database in this repo from the data folder 
 First, you need to have MySQL installed on your device after that follow the below link to attach and connect the database to MySQL
+
 https://dev.mysql.com/doc/sakila/en/sakila-installation.html
 
 ### 2- Description
